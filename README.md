@@ -9,7 +9,7 @@ It now includes steps for Github
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World</title>
+Hello World
 <link rel="stylesheet" href="bluestyle.css">    
 </head>
 <body>
