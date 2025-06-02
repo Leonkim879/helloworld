@@ -19,6 +19,6 @@ It now includes steps for Github
 style="width:100%;max-width: 900px"></div>
 <p>This is the first file in my new Git 
 Repo.</p>
-<p>A new line in our file!</p>
+<p>A new line in our file.I am working on it!</p>
 </body>
 </html>
