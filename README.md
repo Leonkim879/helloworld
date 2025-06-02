@@ -9,12 +9,12 @@ It now includes steps for Github
 <!DOCTYPE html>
 <html>
 <head>
-Hello World
+<h1>Hello World</h1>
 <link rel="stylesheet" href="bluestyle.css">    
 </head>
 <body>
 
-<h1>Hello World</h1>
+<h2>Hello World</h2>
 <div><img src="img_hello_world.jpg" alt="Hello World from Space"
 style="width:100%;max-width: 960px"></div>
 <p>This is the first file in my new Git 
