@@ -16,7 +16,7 @@ It now includes steps for Github
 
 <h2>Hello World</h2>
 <div><img src="img_hello_world.jpg" alt="Hello World from Space"
-style="width:100%;max-width: 960px"></div>
+style="width:100%;max-width: 900px"></div>
 <p>This is the first file in my new Git 
 Repo.</p>
 <p>A new line in our file!</p>
